@@ -26,6 +26,5 @@
 [![BingZi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BingZi-233&show_icons=true&theme=radical&hide_title=true)](https://github.com/BingZi-233)
 
 **💎 技术信条**  
-- 🧠 **AI 实践派**：5年全栈开发+2年工程落地，专注智能系统架构
 - 🔥 **代码炼金师**：坚持「Less is More」的极简主义编码哲学
 - ⚡ **效率偏执狂**：CI/CD优化专家，构建耗时降低70%实践者
