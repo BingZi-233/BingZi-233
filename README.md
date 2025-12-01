@@ -1,5 +1,12 @@
 ### 👋 Hi, I'm BingZi | AI 极客开发者
 
+**🤖 AI & CLI 工具**
+
+![Claude](https://img.shields.io/badge/-Claude-000000?logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-4A9AEB?logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-Codex-4A9AEB?logo=openai&logoColor=white)
+
 **🚀 技术矩阵**  
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -21,6 +28,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GHA-2088FF?logo=github-actions&logoColor=white)
 
+**🤖 AI 驱动的开发实践**
+
+- **核心模型**：深度使用 Claude 3 & GPT-4 系列模型进行架构设计、代码审查、复杂问题解决和文档生成。
+- **CLI 工具**：熟练运用 `claude-code`、GitHub Copilot 等 AI 编程助手，将其无缝集成到日常开发工作流中，实现“人机协同”编程。
+- **自动化探索**：探索 AI 在 CI/CD 流水线中的应用，例如使用 AI 生成测试用例、分析构建日志、自动修复简单 Bug。
 
 **💎 技术信条**  
 - 🔥 **代码炼金师**：坚持「Less is More」的极简主义编码哲学
