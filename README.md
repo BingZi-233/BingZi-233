@@ -22,9 +22,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-GHA-2088FF?logo=github-actions&logoColor=white)
 
 
-**📊 开发轨迹**  
-[![BingZi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BingZi-233&show_icons=true&theme=radical&hide_title=true)](https://github.com/BingZi-233)
-
 **💎 技术信条**  
 - 🔥 **代码炼金师**：坚持「Less is More」的极简主义编码哲学
 - ⚡ **效率偏执狂**：CI/CD优化专家，构建耗时降低70%实践者
